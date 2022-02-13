@@ -1,3 +1,3 @@
 # ToDo
-<img alt="WP Reliable Cookie Bar logo" src="https://github.com/the-hsr/ToDo/tree/main/Tset/Screenshots/image1.png?raw=true" height="100" width="100" align="right" />
-![alt text](https://github.com/the-hsr/ToDo/tree/main/Tset/Screenshots/image1.png?raw=true)
+![image1](https://user-images.githubusercontent.com/64016523/153770486-c4536490-709d-4672-8c96-c651dd836358.png)
+
