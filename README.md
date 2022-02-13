@@ -1,4 +1,11 @@
 # ToDo
+
+# App Preview
+
+
+https://user-images.githubusercontent.com/64016523/153771259-e2ba4114-bc9a-471a-afe0-e71277670c24.mp4
+
+
 # Screenshots
 
 ## This is how app looks like initially...
